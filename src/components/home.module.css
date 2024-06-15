@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+.input{
+    height: 300px;
+    width: 600px;
+    background-color: white;
+    border-radius: 10px;
+    color: black;
+    padding: 10%;
+    font-size: 20px;
+
+}
+.answer{
+    background-color: green;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.skip{
+    background-color: red;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.stop{
+    background-color: orange;
+    width: 200px;
+    margin-top: 10px;
+    margin-right: 10px;
+}
